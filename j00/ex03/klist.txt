@@ -1,0 +1,5 @@
+Credentials cache: API:B69550B2-F0C3-4B00-BDB9-C224F0A4DEC8
+        Principal: mtaieb@42.FR
+
+  Issued                Expires               Principal
+Aug 29 13:53:08 2016  Sep  5 13:53:08 2016  krbtgt/42.FR@42.FR
